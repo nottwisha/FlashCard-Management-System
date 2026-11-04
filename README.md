@@ -29,7 +29,7 @@ A C++ project built using Object-Oriented Programming to make studying and revis
 3. Build and run the project.
 4. Make sure cards.txt is available in the working directory.
 
-- [Partner's Name]
+
 
 ---
 
